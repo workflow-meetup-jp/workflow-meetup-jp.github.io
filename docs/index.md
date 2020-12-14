@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Workflow Meetup の GitHub Pages へようこそ
 
-You can use the [editor on GitHub](https://github.com/workflow-meetup-jp/workflow-meetup-jp.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+workflow Meetup は今や研究者が独学するには手に負えないほどに膨れ上がったワークフロー関連技術の学習をピアサポートで解決することを目的としたコミュニティです。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+「ワークフロー」には基本的にバイオインフォマティクスのワークフローを想定しています。
+「関連技術」は具体的に言うと「コンテナ、クラウド、ワークフロー記述言語」の3つになります。
 
-### Markdown
+これらの技術は「今」新たに学ぶ必要が生まれた技術であり、(繰り返しになりますが)研究者が「独学」するのは容易ではありません。
+また容易ではありませんが「自分以外の人にワークフローを実行してもらう必要がある」場合は習得が必須の技術です。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Workflow Meetupはそのような習得が困難かつ必要性が高いワークフロー関連技術の学習をピアサポートで解決することを目的としたコミュニティです。
+具体的な活動としては月1回のバーチャルミートアップを行っています。
 
-```markdown
-Syntax highlighted code block
+興味を持たれた方は我々のSlack workspace https://workflow-meetup-jp.slack.com/ にご参加ください。
+(招待リンクは https://join.slack.com/t/workflow-meetup-jp/shared_invite/zt-jzydjvsm-oDfLHKcTgpSK9SGUWdaWIg になります。)
 
-# Header 1
-## Header 2
-### Header 3
+## Workflow Meetup の Google Calendar
 
-- Bulleted
-- List
+FILLME
 
-1. Numbered
-2. List
+## 情報リソース(おすすめのベストプラクティス情報)
 
-**Bold** and _Italic_ and `Code` text
+### Snakemake
 
-[Link](url) and ![Image](src)
-```
+- Snakemake tutorial 和訳 (数日後に公開予定、しばしお待ちを)
+- @kokitsuyuzaki さんによる Snakemake の紹介 YouTube動画 from @biopackathon
+  [![](http://img.youtube.com/vi/j9l8u1w3840/0.jpg)](http://www.youtube.com/watch?v=j9l8u1w3840 "snakemakeの紹介@antiplastics")
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Nextflow
 
-### Jekyll Themes
+### CWL
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/workflow-meetup-jp/workflow-meetup-jp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Galaxy
