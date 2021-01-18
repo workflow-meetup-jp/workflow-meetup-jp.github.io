@@ -20,9 +20,27 @@ Workflow Meetupはそのような習得が困難かつ必要性が高いワー�
 
 ## Workflow Meetup の Google Calendar
 
-FILLME
+https://calendar.google.com/calendar/embed?src=8n4altth1rb2fi2ig28ngkvnog%40group.calendar.google.com&ctz=Asia%2FTokyo
+
+この URL を使用すると、ウェブブラウザからこのカレンダーにアクセスできるようになります。
 
 ## 情報リソース(おすすめのベストプラクティス情報)
+
+「どのワークフローシステムを使ってよい(学んでよい)かわからない、教えてほしい」
+と思われるかと思います。
+
+私たちは「Snakemake」の「tutorial」を学ぶことをおすすめします。
+その理由は
+
+- 例が最も実用的
+- 技術に使われるPythonは公用語
+- ワークフロー記述についての自然言語説明が丁寧
+
+だからです。
+
+「Snakemakeに不足を感じたら他のワークフローシステムも試す」
+
+のがベストプラクティスになると思います。
 
 ### Snakemake
 
@@ -30,14 +48,10 @@ FILLME
 https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
 を和訳したものです。
 
-実用的な例がステップbyステップで学習できるようになっており、「どのワークフローシステムを使ってよい(学んでよい)かわからない」
-という方はこのSnakemake tutorialから(手を動かし学習を)始められることをおすすめします。
+実用的な例がステップbyステップで学習できるようになっています。
 
 #### @kokitsuyuzaki さんによる Snakemake の紹介 YouTube動画 from @biopackathon
 [![](http://img.youtube.com/vi/j9l8u1w3840/0.jpg)](http://www.youtube.com/watch?v=j9l8u1w3840 "snakemakeの紹介@antiplastics")
-
-### Nextflow
-TBA...
 
 ### CWL
 
@@ -63,4 +77,14 @@ TBA...
 - Galaxy tour: ...
 - Galaxy instances: ...
 
+### Nextflow
 
+Snakemakeのtutorial相当の(実例的かつ[自然言語的]説明が詳しい) トレーニングマテリアルはありません。
+
+[自然言語的]説明は無い実例としては https://www.nextflow.io/index.html のメニューバーの"Examples"があります。
+
+### レビュー論文
+
+[Streamlining data-intensive biology with workflow systems](https://doi.org/10.1093/gigascience/giaa140)
+
+をおすすめします。
