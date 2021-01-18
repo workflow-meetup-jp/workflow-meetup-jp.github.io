@@ -20,9 +20,8 @@ Workflow Meetupはそのような習得が困難かつ必要性が高いワー�
 
 ## Workflow Meetup の Google Calendar
 
-https://calendar.google.com/calendar/embed?src=8n4altth1rb2fi2ig28ngkvnog%40group.calendar.google.com&ctz=Asia%2FTokyo
-
-この URL を使用すると、ウェブブラウザからこのカレンダーにアクセスできるようになります。
+[この URL](https://calendar.google.com/calendar/embed?src=8n4altth1rb2fi2ig28ngkvnog%40group.calendar.google.com&ctz=Asia%2FTokyo
+) を使用すると、ウェブブラウザからこのカレンダーにアクセスできるようになります。
 
 ## 情報リソース(おすすめのベストプラクティス情報)
 
