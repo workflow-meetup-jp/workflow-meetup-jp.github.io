@@ -26,12 +26,41 @@ FILLME
 
 ### Snakemake
 
-- Snakemake tutorial 和訳 (数日後に公開予定、しばしお待ちを)
-- @kokitsuyuzaki さんによる Snakemake の紹介 YouTube動画 from @biopackathon
-  [![](http://img.youtube.com/vi/j9l8u1w3840/0.jpg)](http://www.youtube.com/watch?v=j9l8u1w3840 "snakemakeの紹介@antiplastics")
+#### [Snakemake tutorial 和訳](https://github.com/workflow-meetup-jp/snakemake-tutorial-jp)
+https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
+を和訳したものです。
+
+実用的な例がステップbyステップで学習できるようになっており、「どのワークフローシステムを使ってよい(学んでよい)かわからない」
+という方はこのSnakemake tutorialから(手を動かし学習を)始められることをおすすめします。
+
+#### @kokitsuyuzaki さんによる Snakemake の紹介 YouTube動画 from @biopackathon
+[![](http://img.youtube.com/vi/j9l8u1w3840/0.jpg)](http://www.youtube.com/watch?v=j9l8u1w3840 "snakemakeの紹介@antiplastics")
 
 ### Nextflow
+TBA...
 
 ### CWL
 
+#### [CWL User Guide](https://www.commonwl.org/user_guide/)
+
+これは...です。...を...風に学ぶことができます。
+
 ### Galaxy
+
+#### [Galaxy Training!](https://training.galaxyproject.org/training-material/)
+
+世界中のGalaxyコミュニティによって開発および保守されているチュートリアルのコレクションです。
+
+下記の画像ように各トピック毎のトレーニングマテリアルへのリンクがまとめられています。
+
+画像のテーブルの各列の意味は下記になります。
+![galaxytable](galaxy.png)
+
+- Slides: ...
+- Hands-on: ...
+- Input dataset: ...
+- Workflows: ...
+- Galaxy tour: ...
+- Galaxy instances: ...
+
+
