@@ -78,7 +78,7 @@ https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
 
 ### Nextflow
 
-Nextflowの作者らが設立した [Seqera Labs](https://seqera.io/)から[トレーニングマテリアル](https://seqera.io/training/)を公開されています。
+Nextflowの作者らが設立した [Seqera Labs](https://seqera.io/)から[トレーニングマテリアル](https://seqera.io/training/)が公開されています。まずはこちらを見るのがいいと思います。
 
 <!-- Snakemakeのtutorial相当の(実例的かつ[自然言語的]説明が詳しい) トレーニングマテリアルはありません。 -->
 
