@@ -21,7 +21,8 @@ Workflow Meetupはそのような習得が困難かつ必要性が高いワー�
 ## Workflow Meetup の Google Calendar
 
 [この URL](https://calendar.google.com/calendar/embed?src=8n4altth1rb2fi2ig28ngkvnog%40group.calendar.google.com&ctz=Asia%2FTokyo
-) を使用すると、ウェブブラウザからこのカレンダーにアクセスできるようになります。
+) を使用すると、ウェブブラウザからWorkflow Meetup の Google Calendarにアクセスできるようになります。
+いつミートアップが開催されるかの確認にご利用ください。
 
 ## 情報リソース(おすすめのベストプラクティス情報)
 
@@ -32,10 +33,9 @@ Workflow Meetupはそのような習得が困難かつ必要性が高いワー�
 その理由は
 
 - 例が最も実用的
-- 技術に使われるPythonは公用語
-- ワークフロー記述についての自然言語説明が丁寧
+- 他と比較して「独自の文法」色が薄い
 
-だからです。
+からです。
 
 「Snakemakeに不足を感じたら他のワークフローシステムも試す」
 
@@ -49,8 +49,21 @@ https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
 
 実用的な例がステップbyステップで学習できるようになっています。
 
+下記のようにYouTube動画による紹介もあります。
+
 #### @kokitsuyuzaki さんによる Snakemake の紹介 YouTube動画 from @biopackathon
 [![](http://img.youtube.com/vi/j9l8u1w3840/0.jpg)](http://www.youtube.com/watch?v=j9l8u1w3840 "snakemakeの紹介@antiplastics")
+
+### Nextflow
+
+Nextflowの作者らが設立した [Seqera Labs](https://seqera.io/)から[トレーニングマテリアル](https://seqera.io/training/)が公開されています。まずはこちらを見るのがいいと思います。
+ただし、Snakemake tutorialとは異なり「Nextflow固有の文法」の説明に主眼が置かれています。
+
+実用例としては https://www.nextflow.io/index.html のメニューバーの"Examples"があります。  
+また、 使える「パターン」が [Nextflow Patterns](http://nextflow-io.github.io/patterns/index.html) としてまとまっています。
+
+すでに使えるパイプラインを調べたい場合、Nextflowで書かれたワークフローのレポジトリである [nf-core](https://nf-co.re/) で実際に使える様々な [パイプラインの実例](https://nf-co.re/pipelines) がリストになっています。
+
 
 ### CWL
 
@@ -75,17 +88,6 @@ https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
 - Workflows: ...
 - Galaxy tour: ...
 - Galaxy instances: ...
-
-### Nextflow
-
-Nextflowの作者らが設立した [Seqera Labs](https://seqera.io/)から[トレーニングマテリアル](https://seqera.io/training/)が公開されています。まずはこちらを見るのがいいと思います。
-
-<!-- Snakemakeのtutorial相当の(実例的かつ[自然言語的]説明が詳しい) トレーニングマテリアルはありません。 -->
-
-[自然言語的]説明は無い実例としては https://www.nextflow.io/index.html のメニューバーの"Examples"があります。  
-また、 使えるパターンが [Nextflow Patterns](http://nextflow-io.github.io/patterns/index.html) としてまとまっています。
-
-すでに使えるパイプラインを調べたい場合、Nextflowで書かれたワークフローのレポジトリである [nf-core](https://nf-co.re/) で実際に使える様々な [パイプラインの実例](https://nf-co.re/pipelines) がリストになっています。
 
 ### レビュー論文
 
