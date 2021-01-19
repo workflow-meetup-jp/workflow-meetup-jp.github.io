@@ -78,9 +78,14 @@ https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
 
 ### Nextflow
 
-Snakemakeのtutorial相当の(実例的かつ[自然言語的]説明が詳しい) トレーニングマテリアルはありません。
+Nextflowの作者らが設立した [Seqera Labs](https://seqera.io/)から[トレーニングマテリアル](https://seqera.io/training/)を公開されています。
 
-[自然言語的]説明は無い実例としては https://www.nextflow.io/index.html のメニューバーの"Examples"があります。
+<!-- Snakemakeのtutorial相当の(実例的かつ[自然言語的]説明が詳しい) トレーニングマテリアルはありません。 -->
+
+[自然言語的]説明は無い実例としては https://www.nextflow.io/index.html のメニューバーの"Examples"があります。  
+また、 使えるパターンが [Nextflow Patterns](http://nextflow-io.github.io/patterns/index.html) としてまとまっています。
+
+すでに使えるパイプラインを調べたい場合、Nextflowで書かれたワークフローのレポジトリである [nf-core](https://nf-co.re/) で実際に使える様々な [パイプラインの実例](https://nf-co.re/pipelines) がリストになっています。
 
 ### レビュー論文
 
