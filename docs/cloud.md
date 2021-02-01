@@ -4,11 +4,9 @@ title: クラウド
 
 ## Azure
 
-文教の方々向けに事務契約面が工夫された Azure イン オープン プラン があります。
+文教の方々向けに事務契約面が工夫された [Azure イン オープン プラン](https://azure.microsoft.com/ja-jp/offers/ms-azr-0111p/) があります。
 
-https://azure.microsoft.com/ja-jp/offers/ms-azr-0111p/
-
-## AnVIL
+## [AnVIL by Terra](https://anvil.terra.bio/#)
 
 Google Cloud 利用者に役立つサービスです。
 
