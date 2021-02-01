@@ -1,5 +1,6 @@
 ---
 title: snakemake
+order: 2
 ---
 
 # Snakemake
