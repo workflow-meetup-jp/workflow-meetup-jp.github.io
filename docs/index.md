@@ -22,8 +22,11 @@ Workflow Meetup は(研究者が独学するには手に負えないほどに膨
 ## Workflow Meetup の Google Calendar
 
 [この URL](https://calendar.google.com/calendar/embed?src=8n4altth1rb2fi2ig28ngkvnog%40group.calendar.google.com&ctz=Asia%2FTokyo
-) を使用すると、ウェブブラウザからWorkflow Meetup の Google Calendarにアクセスできるようになります。
-いつミートアップが開催されるかの確認にご利用ください。(ビデオ会議参加のためのURLはカレンダー中に書かれています。)
+) をクリックすると、ウェブブラウザからWorkflow Meetup の Google Calendarにアクセスできます。
+(みなさんのGoogle Calendarにこのカレンダーを追加するにはリンク先の右下にある「+GoogleCalendar」をクリックしてください。)
+
+いつミートアップが開催されるかの確認にご利用ください。
+(ビデオ会議参加のためのURLはカレンダー中に書かれています。)
 
 ## 情報リソース(おすすめのベストプラクティス情報)
 
