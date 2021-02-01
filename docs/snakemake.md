@@ -12,5 +12,12 @@ https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
 
 下記のようにYouTube動画による紹介もあります。
 
-## @kokitsuyuzaki さんによる Snakemake の紹介 YouTube動画 from @biopackathon
+@kokitsuyuzaki さんによる Snakemake の紹介 YouTube動画 from [@biopackathon](https://github.com/biopackathon)
 [![](http://img.youtube.com/vi/j9l8u1w3840/0.jpg)](http://www.youtube.com/watch?v=j9l8u1w3840 "snakemakeの紹介@antiplastics")
+
+## Harvard FAS Informatics による bioinformatics tutorials
+https://github.com/harvardinformatics/bioinformatics-coffee-hour
+
+のテーブルの「Tues, May 26, 2020」にSnakemakeのJupyter Notebookがあります。
+
+その行のBinderのリンクをふむと環境セットアップ不要でSnakemakeのワークフローを試すことができます。
