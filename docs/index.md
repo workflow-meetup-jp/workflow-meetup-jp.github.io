@@ -1,5 +1,6 @@
 ---
 title: ホーム
+order: 1
 ---
 
 ## Workflow Meetup の GitHub Pages へようこそ
