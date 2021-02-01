@@ -15,6 +15,12 @@ https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
 @kokitsuyuzaki さんによる Snakemake の紹介 YouTube動画 from [@biopackathon](https://github.com/biopackathon)
 [![](http://img.youtube.com/vi/j9l8u1w3840/0.jpg)](http://www.youtube.com/watch?v=j9l8u1w3840 "snakemakeの紹介@antiplastics")
 
+## variant callingのためのsnakemakeのワークフロー
+
+Titus Brown氏によるタイトルのワークフロー例
+https://hackmd.io/SU2NB89JRu6fRPtSFizEEA?view
+
+
 ## Harvard FAS Informatics による bioinformatics tutorials
 https://github.com/harvardinformatics/bioinformatics-coffee-hour
 
