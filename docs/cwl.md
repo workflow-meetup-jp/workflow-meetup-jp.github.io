@@ -1,5 +1,5 @@
 ---
-title: 情報リンク
+title: CWL
 ---
 
 # CWL
