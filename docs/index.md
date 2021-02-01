@@ -15,8 +15,9 @@ Workflow Meetup は(研究者が独学するには手に負えないほどに膨
 
 具体的な活動としては月1回のバーチャルミートアップを行っています。
 
-興味を持たれた方は我々のSlack workspace https://workflow-meetup-jp.slack.com/ にご参加ください。
-(招待リンクは https://join.slack.com/t/workflow-meetup-jp/shared_invite/zt-jzydjvsm-oDfLHKcTgpSK9SGUWdaWIg になります。)
+興味を持たれた方は我々の[Slack workspace](https://workflow-meetup-jp.slack.com/)
+[招待リンク](https://join.slack.com/t/workflow-meetup-jp/shared_invite/zt-jzydjvsm-oDfLHKcTgpSK9SGUWdaWIg)
+にご参加ください。
 
 ## Workflow Meetup の Google Calendar
 
@@ -30,7 +31,7 @@ Workflow Meetup は(研究者が独学するには手に負えないほどに膨
 と思われるかと思います。
 
 私たちはまず「[Snakemakeのtutorial](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html)」を学ぶことをおすすめします。
-(https://github.com/workflow-meetup-jp/snakemake-tutorial-jp で和訳も行っています。)
+([https://github.com/workflow-meetup-jp/snakemake-tutorial-jp](https://github.com/workflow-meetup-jp/snakemake-tutorial-jp)で和訳も行っています。)
 その理由は
 
 - 例が最も実用的である
