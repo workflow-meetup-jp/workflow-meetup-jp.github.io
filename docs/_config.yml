@@ -4,4 +4,7 @@ header_pages:
  - snakemake.md
  - nextflow.md
  - cwl.md
- 
+ - galaxy.md
+ - cloud.md
+ - docker.md
+ - papers.md
