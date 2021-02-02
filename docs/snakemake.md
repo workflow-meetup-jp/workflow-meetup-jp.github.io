@@ -6,7 +6,7 @@ order: 2
 # Snakemake
 
 ## [Snakemake tutorial 和訳](https://github.com/workflow-meetup-jp/snakemake-tutorial-jp)
-https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
+[Snakemakeのtutorial](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html)
 を和訳したものです。
 
 実用的な例がステップbyステップで学習できるようになっています。
@@ -18,12 +18,11 @@ https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
 
 ## variant callingのためのsnakemakeのワークフロー
 
-Titus Brown氏によるタイトルのワークフロー例
-https://hackmd.io/SU2NB89JRu6fRPtSFizEEA?view
-
+[Titus Brown氏によるタイトルのワークフロー例](https://hackmd.io/SU2NB89JRu6fRPtSFizEEA?view)
 
 ## Harvard FAS Informatics による bioinformatics tutorials
-https://github.com/harvardinformatics/bioinformatics-coffee-hour
+
+[https://github.com/harvardinformatics/bioinformatics-coffee-hour](https://github.com/harvardinformatics/bioinformatics-coffee-hour)
 
 のテーブルの「Tues, May 26, 2020」にSnakemakeのJupyter Notebookがあります。
 
