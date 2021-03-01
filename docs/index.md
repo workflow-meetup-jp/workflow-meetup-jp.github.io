@@ -4,20 +4,38 @@ title: ホーム
 
 ## Workflow Meetup の GitHub Pages へようこそ
 
-Workflow Meetup は(研究者が独学するには手に負えないほどに膨れ上がった)
-ワークフロー関連技術の学習をピアサポートで解決することを目的としたコミュニティです。
+Workflow Meetup は 
+バイオインフォマティクスや機械学習のワークフローを
 
-ここでの「ワークフロー」は基本的に「バイオインフォマティクス」のワークフローを想定しています。
-「関連技術」の主なものは、具体的に言うと「コンテナ、クラウド、ワークフロー記述言語」になります。
+- 安定稼働させたまま
+- 継続してフィードバックを取り入れ
+- 新機能や改善を、迅速に反映する
 
-これらの技術は「最近」新たに学ぶ必要が生まれた技術であり、研究者が「独学」するのは容易ではありません。
-また容易ではありませんが「自分以外の人にワークフローを実行してもらう必要がある」場合は習得が必須の技術です。
+ためのあらゆる技術の学習をピアサポート(仲間同士の支え合い)
+で解決することを目的としたコミュニティです。
+
+ここでの「技術」は非常に様々ですが、
+主なものを挙げると「コンテナ、クラウド、ワークフロー記述言語」になります。
+
+これらの技術は急速に開発が進んでおり、研究者が「独学」するのは容易ではありません。
+また「我流でワークフローを組んだ"後"」に、これらの技術を導入するのも容易ではありません。
+これらの技術は普段から学び、慣れておく必要があります。
+
+もちろん学習コストはありますが
+「自分以外の人にワークフローを実行してもらう必要がある」
+場合、必ずそのコストの元が取れます。
+
+そのコストを下げるべく、このコミュニティではワークフローに関する
+ベストプラクティス情報を共有しようとしています。
 
 具体的な活動としては月1回のバーチャルミートアップを行っています。
+(pragliというツールを使っています。 pragliのURLは[こちら](https://pragli.com/team/workflow-meetup/meeting/-MB7GdLaBKRQULGN-B0h)。)
 
-興味を持たれた方は我々の[Slack workspace](https://workflow-meetup-jp.slack.com/)
-[招待リンク](https://join.slack.com/t/workflow-meetup-jp/shared_invite/zt-jzydjvsm-oDfLHKcTgpSK9SGUWdaWIg)
-にご参加ください。
+[Slack workspace](https://workflow-meetup-jp.slack.com/)
+([招待リンク](https://join.slack.com/t/workflow-meetup-jp/shared_invite/zt-jzydjvsm-oDfLHKcTgpSK9SGUWdaWIg))
+もあります。
+
+興味を持たれた方は気軽にご参加ください。
 
 ## Workflow Meetup の Google Calendar
 
@@ -30,7 +48,7 @@ Workflow Meetup は(研究者が独学するには手に負えないほどに膨
 
 ## 情報リソース(おすすめのベストプラクティス情報)
 
-「どのワークフローシステムを使ってよい(学んでよい)かわからない、教えてほしい」
+「何から学んでよいかわからない、教えてほしい」
 と思われるかと思います。
 
 私たちはまず「[Snakemakeのtutorial](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html)」を学ぶことをおすすめします。
@@ -38,13 +56,14 @@ Workflow Meetup は(研究者が独学するには手に負えないほどに膨
 その理由は
 
 - 例が最も実用的である
-- 他と比較して「独自の文法」色が薄い
+- よく知られたツールMakeに使用感が近い
+- よく知られたプログラミング言語Python風で簡単
 
-からです。
+だからです。
 
 「Snakemakeに不足を感じたら他のワークフローシステムも試す」
 
 のがベストプラクティスになると思います。
-Snakemakeの教材は[こちら](https://workflow-meetup-jp.github.io/snakemake.html)にもあります。
+Snakemakeの他の教材は[こちら](https://workflow-meetup-jp.github.io/snakemake.html)にもあります。
 
 その他のワークフローシステム等に関しては本サイト上部にあるリンクをご覧ください。
