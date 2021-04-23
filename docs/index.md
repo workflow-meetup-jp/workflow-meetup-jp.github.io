@@ -40,6 +40,8 @@ Workflow Meetup は
 
 興味を持たれた方は気軽にご参加ください。
 
+2018年2月より活動しています。
+
 ## Workflow Meetup の Google Calendar
 
 [この URL](https://calendar.google.com/calendar/embed?src=8n4altth1rb2fi2ig28ngkvnog%40group.calendar.google.com&ctz=Asia%2FTokyo
