@@ -35,6 +35,7 @@ Workflow Meetup は
 
 [Slack workspace](https://workflow-meetup-jp.slack.com/)
 ([招待リンク](https://join.slack.com/t/workflow-meetup-jp/shared_invite/zt-jzydjvsm-oDfLHKcTgpSK9SGUWdaWIg))
+(招待リンクがうまくいかないとき[招待の発行はこちらから](https://obf-jp-slackin.herokuapp.com/) obf-jpというアドレスですが、これは昔の名前で、同一のものです。）
 もあります。
 
 興味を持たれた方は気軽にご参加ください。
