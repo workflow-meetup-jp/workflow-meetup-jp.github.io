@@ -1,5 +1,5 @@
 ---
-title: galaxy
+title: Galaxy
 ---
 
 # Galaxy
