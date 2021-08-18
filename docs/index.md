@@ -4,8 +4,8 @@ title: ホーム
 
 ## Workflow Meetup の GitHub Pages へようこそ
 
-[次回ミートアップは2021-08-18(Wed) 13:00-19:00(JST)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20210818)
-その次、2021-09-01(Wed)を予定
+[次回ミートアップは2021-09-01(Wed) 13:00-19:00(JST)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20210901)
+その次、2021-10-06(Wed)を予定
 
 Workflow Meetup は 
 バイオインフォマティクスや機械学習のワークフローを
