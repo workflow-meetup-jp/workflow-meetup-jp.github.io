@@ -4,7 +4,7 @@ title: ホーム
 
 ## Workflow Meetup の GitHub Pages へようこそ
 
-[次回ミートアップは2021-12-01(Wed) 13:00-19:00(JST)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20211201)
+[次回ミートアップは2022-01-12(Wed) 13:00-19:00(JST)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20220112)
 その次、2022-01-12(Wed)を予定
 
 Workflow Meetup は 
