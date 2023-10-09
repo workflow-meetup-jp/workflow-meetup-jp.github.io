@@ -4,6 +4,10 @@ title: CWL
 
 # CWL
 
+## 最新のCWLcon 2021の動画
+
+[Latest CWLcon 2021 topics \- Common Workflow Language Discourse](https://cwl.discourse.group/c/cwlcon-2021/9)
+
 ## [CWL User Guide](https://www.commonwl.org/user_guide/)
 
 これは...です。...を...風に学ぶことができます。
@@ -14,3 +18,4 @@ title: CWL
 
 NGSデータ分析を行うものです。
 特に [Windows Subsystem for Linux でそれを行うことを確約するドキュメント](https://pm4ngs.readthedocs.io/en/latest/pipelines/windowssl.html)がありおすすめです。
+
