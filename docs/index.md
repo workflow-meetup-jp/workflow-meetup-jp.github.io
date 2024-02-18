@@ -4,7 +4,7 @@ title: ホーム
 
 ## Workflow Meetup の GitHub Pages へようこそ
 
-[次回ミートアップは2024-03-06(Wed) 13:00-19:00(JST)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20240207)
+[次回ミートアップは2024-03-06(Wed) 13:00-19:00(JST)](https://github.com/workflow-meetup-jp/workflow-meetup/wiki/20240306)
 
 以降/
 - 2024-04-04(Thu)　または、2024-04-11(Thu)を予定(おそくら11日木曜日)
